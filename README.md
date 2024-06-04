@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Hania, a PhD student at Cambridge University working on leveraging maching learning for early detection of liver cancer using radiological imaging.
 <!--
 **hmpaverd/hmpaverd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
